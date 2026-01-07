@@ -1,27 +1,31 @@
 [
   {
-    "id": "HOME_TEST_01",
-    "name": "Home Sweet Home",
-    "holes": [
-      {
-        "hole": 1,
-        "par": 3,
-        "lat_f": -27.798708, "lon_f": 152.954298,
-        "lat_m": -27.798747, "lon_m": 152.954238,
-        "lat_b": -27.798781, "lon_b": 152.954205
-      }
-    ]
-  },
-  {
-    "id": "QLD_FLAGSTONE_CC",
-    "name": "Flagstone Creek Golf Club",
+    "id": "QLD_BEAUDESERT_GC",
+    "name": "Beaudesert Golf Club",
     "holes": [
       {
         "hole": 1,
         "par": 4,
-        "lat_f": -27.798700, "lon_f": 152.954200,
-        "lat_m": -27.798741, "lon_m": 152.954254,
-        "lat_b": -27.798800, "lon_b": 152.954300
+        "image": "beau_01.png",
+        "lat_f": -27.996670, "lon_f": 152.998618,
+        "lat_m": -27.996618, "lon_m": 152.995805,
+        "lat_b": -27.996571, "lon_b": 152.998398
+      },
+      {
+        "hole": 2,
+        "par": 5,
+        "image": "beau_02.png",
+        "lat_f": -27.98440, "lon_f": 152.99440,
+        "lat_m": -27.98456, "lon_m": 152.99456,
+        "lat_b": -27.98470, "lon_b": 152.99470
+      },
+      {
+        "hole": 3,
+        "par": 3,
+        "image": "beau_03.png",
+        "lat_f": -27.98780, "lon_f": 152.99780,
+        "lat_m": -27.98789, "lon_m": 152.99789,
+        "lat_b": -27.98800, "lon_b": 152.99800
       }
     ]
   }
