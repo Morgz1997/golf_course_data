@@ -1,20 +1,29 @@
 [
   {
-    "id": "TG_HQ_01",
-    "name": "Total Generators HQ",
+    "id": "HOME_TEST_01",
+    "name": "Home Sweet Home",
     "holes": [
-      { "hole": 1, "par": 3, "lat": -27.664557, "lon": 153.134518 },
-      { "hole": 2, "par": 4, "lat": -27.664722, "lon": 153.134346 },
-      { "hole": 3, "par": 5, "lat": -27.665088, "lon": 153.134365 }
+      {
+        "hole": 1,
+        "par": 3,
+        "lat_f": -27.798714, "lon_f": 152.954287,
+        "lat_m": -27.798747, "lon_m": 152.954238,
+        "lat_b": -27.278781, "lon_b": 152.954205
+      }
     ]
   },
   {
     "id": "QLD_FLAGSTONE_CC",
     "name": "Flagstone Creek Golf Club",
     "holes": [
-      { "hole": 1, "par": 4, "lat": -27.798741, "lon": 152.954254 },
-      { "hole": 2, "par": 3, "lat": -27.800000, "lon": 152.955000 },
-      { "hole": 3, "par": 5, "lat": -27.802000, "lon": 152.952000 }
+      {
+        "hole": 1,
+        "par": 4,
+        "lat_f": -27.798700, "lon_f": 152.954200,
+        "lat_m": -27.798741, "lon_m": 152.954254,
+        "lat_b": -27.798800, "lon_b": 152.954300
+      }
+      // You will need to update the other holes to this format later!
     ]
   }
 ]
