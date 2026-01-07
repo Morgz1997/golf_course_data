@@ -1,18 +1,20 @@
 [
   {
-    "id": "QLD_FLAGSTONE_01",
-    "name": "Flagstone Creek Golf Club",
+    "id": "TG_HQ_01",
+    "name": "Total Generators HQ",
     "holes": [
-      { "hole": 1, "par": 4, "lat": -27.123456, "lon": 153.123456 },
-      { "hole": 2, "par": 3, "lat": -27.123456, "lon": 153.123456 },
-      { "hole": 3, "par": 5, "lat": -27.123456, "lon": 153.123456 }
+      { "hole": 1, "par": 3, "lat": -27.664557, "lon": 153.134518 },
+      { "hole": 2, "par": 4, "lat": -27.664722, "lon": 153.134346 },
+      { "hole": 3, "par": 5, "lat": -27.665088, "lon": 153.134365 }
     ]
   },
   {
-    "id": "QLD_BRISBANE_GC",
-    "name": "The Brisbane Golf Club",
+    "id": "QLD_FLAGSTONE_CC",
+    "name": "Flagstone Creek Golf Club",
     "holes": [
-      { "hole": 1, "par": 4, "lat": -27.525000, "lon": 153.010000 }
+      { "hole": 1, "par": 4, "lat": -27.798741, "lon": 152.954254 },
+      { "hole": 2, "par": 3, "lat": -27.800000, "lon": 152.955000 },
+      { "hole": 3, "par": 5, "lat": -27.802000, "lon": 152.952000 }
     ]
   }
 ]
