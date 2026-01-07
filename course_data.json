@@ -1,0 +1,18 @@
+[
+  {
+    "id": "QLD_FLAGSTONE_01",
+    "name": "Flagstone Creek Golf Club",
+    "holes": [
+      { "hole": 1, "par": 4, "lat": -27.123456, "lon": 153.123456 },
+      { "hole": 2, "par": 3, "lat": -27.123456, "lon": 153.123456 },
+      { "hole": 3, "par": 5, "lat": -27.123456, "lon": 153.123456 }
+    ]
+  },
+  {
+    "id": "QLD_BRISBANE_GC",
+    "name": "The Brisbane Golf Club",
+    "holes": [
+      { "hole": 1, "par": 4, "lat": -27.525000, "lon": 153.010000 }
+    ]
+  }
+]
